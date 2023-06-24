@@ -19,7 +19,7 @@ translation: English  translations/English.md
 
 # Testes do SheetsMate
 
-> Este documento serve para trazer algumas informações para auxiliar no entendimento e uso da ferramenta
+> Este documento serve para trazer algumas informações para auxiliar no entendimento e uso da ferramenta 🤯 
 
 - Tem dois videos para auxiliar na sua jornada
 
@@ -86,3 +86,5 @@ translation: English  translations/English.md
 11. Faça um teste de deleção única
 12. Faça um teste de Atualização única
 >
+* Assim que você concluir os testes fique à vontade para responder o formulário a seguir -> https://forms.gle/QryjqHksgjk27gcX6
+* Muito obrigado pela colaboração 😄 !
