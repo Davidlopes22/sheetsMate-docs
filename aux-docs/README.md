@@ -100,7 +100,7 @@ Uma página de uma tabela do Google Sheets é uma guia ou aba individual dentro 
 
 Campos requeridos serão úteis nos métodos de inserções e atualizações, sendo obrigatórios em inserções. Durante a atualização não podem ser atribuídos valores vazios ou nulos.
 
-**3. Fiquei con dúvida sobre a utilização dos endpoints gerados!**
+**3. Fiquei com dúvida sobre a utilização dos endpoints gerados!**
 
 Tem um ícone de ajuda na home do SheetsMate!
 
@@ -119,7 +119,7 @@ Tem um ícone de ajuda na home do SheetsMate!
 05. Selecione uma página/aba da tabela e clique em “Ver Colunas”
 06. Selecione os campos que deseja marcar como requerido e gere o código
 
-**Tarefas de deploy e uso de API**
+**Tarefas de deploy e uso de API - Utilize Postman, Insomnia ou alguma ferramenta correlata para as requisições**
 
 07. Faça a implantação do código gerado na planilha escolhida no passo 4
 
