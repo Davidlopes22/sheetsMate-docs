@@ -111,7 +111,7 @@ Tem um ícone de ajuda na home do SheetsMate!
 
 **Tarefas de acesso e geração de API**
 
-
+>Para evitar alguns bugs relacionados ao Google é aconselhável realizar os testes em guia anônima.
 01. Faça login na conta do Google disponibilizada para o teste
 02. Usando a conta Google disponibilizada, faça login na ferramenta através do seguinte link: https://davidlopes22.github.io/sheets-mate.github.io/
 03. Visualize as tabelas disponibilizadas (clique no botão “Ver Tabelas”)
